@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This is our first year coursework where we were required to to gareate a 
+GymGUI using Java. This is the first year project so basics are only used.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:GymGUI
+PURPOSE OF PROJECT: To gain more knowledge about the basics in Java.
+AUTHORS: Slesha Maharjan
+USER INSTRUCTIONS: 
+There might be a lot of mistakes as I am also a student who is learning just now.
